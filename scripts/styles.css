@@ -19,6 +19,7 @@
       }
       
       section {
+        position:relative;
         height: fit-content;
         z-index: 0;
         border-radius:0px;
