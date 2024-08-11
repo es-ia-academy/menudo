@@ -137,7 +137,7 @@
             <grid-item id="JQXjbFa">
               <grid-box id="deHqadA">
                 <grid-item id="joxXUVd">
-        <a id="zpEQUEX" href="/" contenteditable="true">Home</a>
+        <a id="zpEQUEX" href="https://es-ia-academy.github.io/menudo/" contenteditable="true">Home</a>
         <button class="no-export button-delete-item" onclick="deleteItem('joxXUVd')">-</button>
     </grid-item><grid-item id="pfmtcpw">
         <a id="mmotwnw" href="https://es-ia-academy.github.io/menudo/contact/" contenteditable="true">Contact</a>
