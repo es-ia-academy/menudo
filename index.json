@@ -137,10 +137,10 @@
             <grid-item id="sfXptjq">
               <grid-box id="aQOBPBd">
                 <grid-item id="mYxWOnc">
-        <a id="fKWxEFk" href="/contact" contenteditable="true">/contact</a>
+        <a id="fKWxEFk" href="/" contenteditable="true">Home</a>
         <button class="no-export button-delete-item" onclick="deleteItem('mYxWOnc')">-</button>
     </grid-item><grid-item id="PdoWwiv">
-        <a id="CdgSObK" href="./contact" contenteditable="true">./contact</a>
+        <a id="CdgSObK" href="https://es-ia-academy.github.io/menudo/contact/" contenteditable="true">Contact</a>
         <button class="no-export button-delete-item" onclick="deleteItem('PdoWwiv')">-</button>
     </grid-item><button id="jyDVhBr" class="no-export grid-add-item" onclick="itemsLinks('aQOBPBd','jyDVhBr')">+</button>
               </grid-box>
